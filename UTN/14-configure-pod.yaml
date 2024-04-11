@@ -34,6 +34,4 @@ spec:
       items:
       - key: "game.properties"
         path: "game.properties"
-      - key: "user-interface.properties"
-        path: "user-interface.properties"
         
